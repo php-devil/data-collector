@@ -1,0 +1,17 @@
+{
+  "name":              "php-devil/data-collector",
+  "description":       "Построение сложных форм с пошаговой валидацией",
+  "minimum-stability": "stable",
+  "license":           "MIT",
+  "authors": [
+    {
+      "name":  "Alexey Volkov",
+      "email": "alex.phpdevil@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "PhpDevil\\Extensions\\DataCollector\\": ""
+    }
+  }
+}

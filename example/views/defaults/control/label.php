@@ -1,0 +1,1 @@
+<label class="<?=$this->outerClass?> control-label" for="<?=$this->getID()?>"><?=$this->text?></label>
